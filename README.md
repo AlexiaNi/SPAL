@@ -6,6 +6,13 @@ SPAL este un ansamblu utilitar cu 2 grade de libertate format din brațul roboti
 
 Proiect realizat de Niculae Alexia și Cincă Ana
 
+# Software utilizat
+
+Proiectare 3D - Rhinoceros 4  
+Imprimare 3D - Simplify3D  
+IDE - Thonny  
+Limbaj de programare - Python 3.9  
+
 # Distincții
 
 Premiul III în cadrul concursului EnergyBrain organizat cu ocazia Energy Fest 2023 la Universitatea Politehnică din București 

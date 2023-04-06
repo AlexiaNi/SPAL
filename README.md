@@ -17,9 +17,6 @@ Limbaj de programare - Python 3.9
 
 Premiul III în cadrul concursului EnergyBrain organizat cu ocazia Energy Fest 2023 la Universitatea Politehnică din București 
 
-# Linkuri utile
-
-Site oficial - www.spalrobotics.wordpress.com  
 
 
 
